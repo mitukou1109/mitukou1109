@@ -1,7 +1,4 @@
-<!--<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mitukou1109&theme=tokyonight&show_icons=true&hide_border=true" />-->
-<p align="left"> 
-  <img alt="Top langs by repo" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitukou1109&theme=tokyonight&exclude=CMake" />
-  <img alt="Top langs by commit" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mitukou1109&theme=tokyonight&exclude=CMake" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitukou1109&theme=tokyonight)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=mitukou1109&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mitukou1109&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mitukou1109&theme=tokyonight)
