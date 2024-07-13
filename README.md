@@ -5,4 +5,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mitukou1109&theme=tokyonight" height="180px"/>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mitukou1109&theme=tokyonight&rank=-B,-C)
+![trophy](https://github-profile-trophy.vercel.app/?username=mitukou1109&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A)
